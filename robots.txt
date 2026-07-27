@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-kxevsx.godsrainbow.org/sitemap.xml
